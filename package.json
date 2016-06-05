@@ -1,0 +1,20 @@
+{
+  "name": "url-requester",
+  "version": "0.1.0",
+  "description": "Create request streams based on url",
+  "main": "lib/url-requester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljstutz/node-url-requester.git"
+  },
+  "author": "Michael Stutz <michaeljstutz@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/michaeljstutz/node-url-requester/issues"
+  },
+  "homepage": "https://github.com/michaeljstutz/node-url-requester#readme",
+  "private": true
+}
